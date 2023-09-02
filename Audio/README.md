@@ -1,4 +1,3 @@
-# apparel_images
 ## Content
 This dataset contains audio podcasts for transcription
 It can be used in different cloud platforms as shown down below.
